@@ -4,3 +4,5 @@ do_something_here
 end
 
 if 4 < 5
+puts "Four is less than five"
+end
