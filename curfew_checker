@@ -7,4 +7,4 @@ cart_contains = [ "toothbrush", "jacket", "drone"]
 cart_price = [ 1.50, 42.99, 75.05]
 
 cart.pries.each do |price|
-full_price = 
+full_price = price*
