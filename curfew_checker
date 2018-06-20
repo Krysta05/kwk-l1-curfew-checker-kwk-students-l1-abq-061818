@@ -1,8 +1,7 @@
-def ruby
-if condition_goes_here
-do_something_here
-end
+abq = .05125
 
-if 4 < 5
-puts "Four is less than five"
-end
+
+
+
+cart_contains = [ "toothbrush", "jacket", "drone"]
+cart_price = [ 1.50, 42.99, 75.05]
